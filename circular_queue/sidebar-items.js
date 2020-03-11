@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CircularQueue","A circular buffer-like queue."]],"type":[["AscIter","An ascending iterator over `CircularQueue<T>`."],["AscIterMut","An mutable ascending iterator over `CircularQueue<T>`."],["Iter","An iterator over `CircularQueue<T>`."],["IterMut","A mutable iterator over `CircularQueue<T>`."]]});
